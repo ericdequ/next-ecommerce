@@ -1,0 +1,36 @@
+Authentication with Cookies Sessions:
+
+Install next-iron-session or next-session to handle session management with cookies.
+Create authentication functions (sign up, log in, and log out) that interact with your GraphQL API and use the session management library to set or remove cookies.
+Reset Password using email:
+
+Implement a "forgot password" feature on the front end, allowing users to input their email addresses.
+Create a GraphQL mutation to generate a password reset token and send a password reset email to the user.
+Implement a password reset form that uses the token to allow users to set a new password.
+List Products, Filter by Category, Sort, and Live Search:
+
+Create a GraphQL query to fetch products, with optional parameters for filtering, sorting, and searching.
+Use Apollo Client's useQuery hook to fetch products on the client side and display them on the products page.
+Implement filtering, sorting, and live search features using the query parameters.
+Add products to Wishlist:
+
+Create a Wishlist schema in your database to store user and product relations.
+Implement a GraphQL mutation for adding/removing products to/from a user's wishlist.
+Use Apollo Client to call the mutation and update the UI accordingly.
+Add products to Cart:
+
+Create a Cart schema in your database to store user and product relations, along with quantity information.
+Implement a GraphQL mutation for adding/removing/updating cart items.
+Use Apollo Client to call the mutation and update the UI accordingly.
+Checkout page:
+
+Create a checkout page that displays cart items, shipping information, and payment options.
+Implement a GraphQL mutation for creating an order in the database based on the user's cart.
+Payment with PayPal:
+
+Sign up for a PayPal Developer account and create a PayPal app to get your client and secret keys.
+Install the paypal-rest-sdk or @paypal/checkout-server-sdk package.
+Implement a PayPal payment integration by creating a GraphQL mutation to handle payment processing using the PayPal SDK.
+Review Products:
+
+Create a Review schema in your database to store user and product relations, along with review content
