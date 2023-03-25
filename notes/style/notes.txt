@@ -2,7 +2,7 @@ Technologies:
 a. Next.js: Use Next.js, a React framework, to build a server-rendered, SEO-friendly, and high-performance website.
 b. React: As Next.js is built on top of React, use React components to create reusable UI elements.
 c. Vercel: Deploy the website using Vercel, the platform built by the same team behind Next.js for optimal performance.
-d. Stripe: Integrate Stripe for secure payment processing.
+d. Stripe: Integrate Stripe for secure payment processing
 e. Firebase or MongoDB: Use a NoSQL database like Firebase or MongoDB for storing user and product data.
 f. GraphQL: Utilize GraphQL for efficient data querying and manipulation.
 g. Apollo Client: Use the Apollo Client library for seamless GraphQL integration with React.
