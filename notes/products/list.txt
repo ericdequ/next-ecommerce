@@ -1,0 +1,4 @@
+
+{mushroom :{capsules,tinctures, gummies, choclates} delta-8 :{tinctures, gummies, choclates, cartridge}, cbd :{tinctures, gummies, choclates,delta-9 :{tinctures, gummies, choclates, cartridge},supplements:{anxiety,mood,sleep,afrodesiacs,immunity,nootropics,energy }}
+
+{spiritual:{Sage , inncess, crystals, Teas}, BeardOil{Oil, Balm}}
