@@ -14,16 +14,13 @@ export const typeDefs = gql`
     img_url: String!
     price: String!
     rating: String!
-    createdAt: Int
-    updatedAt: Int
-    user_id: ID!
+    tags: [String]
   }
   type Category {
     id: ID!
     name: String!
     label: String!
     md_icon: String!
-    createdAt: Int
   }
   input SignUpInput {
     name: String!

@@ -1,0 +1,99 @@
+{
+  "categories": [
+    {
+      "mushroom": {
+        "capsules": [
+          "Cordyceps Mushroom Capsules",
+          "Divine Functional Mushroom Capsules"
+        ],
+        "tinctures": [
+          "Reishi Mushroom Tincture",
+          "Lions Mane Mushroom Tincture"
+        ],
+        "gummies": [
+          "Soulful Mushroom Gummies"
+        ],
+        "chocolates": [
+          "Psycho Mushroom Chocolate Bars"
+        ]
+      },
+      "delta-8": {
+        "tinctures": ["Delta 8 Tincture"],
+        "gummies": ["Delta 8 Gummies"],
+        "chocolates": ["Delta-8 Chocolate Bar"],
+        "cartridge": ["Delta 8 Vape Cartridge"]
+      },
+      "cbd": {
+        "tinctures": ["Premium CBD Tincture"],
+        "gummies": ["CBD Gummies"],
+        "chocolates": ["CBD Chocolate Bar"],
+        "capsules": ["Serenity CBD Capsules"]
+      },
+      "delta-9": {
+        "tinctures": ["Harmony Delta 9 Tincture"],
+        "gummies": ["Enlightened Delta 9 Gummies"],
+        "cartridge": ["Elevated Delta 9 Cartridge"]
+      },
+      "supplements": {
+        "anxiety": ["Anxiety Relief Supplement"],
+        "mood": ["Mood Support Supplement"],
+        "sleep": ["Sleep Support Supplement"],
+        "aphrodisiacs": ["Aphrodisiac Herbal Blend"],
+        "immunity": ["Immunity Booster Supplement"],
+        "nootropics": ["Nootropic Energy Supplement"],
+        "energy": ["Nootropic Energy Supplement"]
+      },
+      "spiritual": {
+        "sage": ["Sacred Palo Santo Smudge Sticks"],
+        "incense": ["Astral Projection Incense Blend"],
+        "crystals": [
+          "Amethyst Crystal",
+          "Rose Quartz Crystal",
+          "Clear Quartz Crystal"
+        ],
+        "teas": ["Chakra Balancing Tea Blend"]
+      },
+      "beardOil": {
+        "oil": ["Organic beard oil"],
+        "balm": ["Organic Beard Balm"]
+      }
+    }
+  ],
+  "products": [
+    "Reishi Mushroom Tincture",
+    "Delta 8 Tincture",
+    "Delta 8 Vape Cartridge",
+    "Delta 8 Gummies",
+    "Natural Ashwagandha Supplement",
+    "Amethyst Crystal",
+    "Rose Quartz Crystal",
+    "Clear Quartz Crystal",
+    "Turmeric Curcumin Supplement",
+    "Lions Mane Mushroom Tincture",
+    "Cordyceps Mushroom Capsules",
+    "CBD Chocolate Bar",
+    "Sleep Support Supplement",
+    "Delta-9 Chocolate Bar",
+    "Nootropic Energy Supplement",
+    "Immunity Booster Supplement",
+    "Aphrodisiac Herbal Blend",
+    "Mood Support Supplement",
+    "Anxiety Relief Supplement",
+    "CBD Gummies",
+    "Chakra Balancing Tea Blend",
+    "Sacred Palo Santo Smudge Sticks",
+    "Organic Kava Kava Root Powder",
+    "Third Eye Awakening Herbal Tincture",
+    "Astral Projection Incense Blend",
+    "Organic beard oil",
+    "Serenity CBD Capsules",
+    "Divine Functional Mushroom Capsules",
+    "Soulful Mushroom Gummies",
+    "Psycho Mushroom Chocolate Bars",
+    "Elevated Delta 9 Cartridge",
+    "Enlightened Delta 9 Gummies",
+    "Harmony Delta 9 Tincture",
+    "Organic Beard Balm",
+    "Premium CBD Tincture"
+  ]
+}

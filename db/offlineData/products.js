@@ -7,7 +7,7 @@ const offlineProducts = [
     img_url: '/products/reishi-tincture.jpg',
     price: 29.99,
     rating: 4.5,
-    tags: ['mushroom', 'tinctures', 'immunity']
+    tags: ['mushroom', 'tinctures', 'immunity'],
   },
   {
     id: 2,
@@ -17,7 +17,7 @@ const offlineProducts = [
     img_url: '/products/delta-8-tincture.jpg',
     price: 39.99,
     rating: 4.7,
-    tags: ['delta-8', 'tinctures', 'stress']
+    tags: ['delta-8', 'tinctures', 'stress'],
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const offlineProducts = [
     img_url: '/products/delta-8-vape.jpg',
     price: 34.99,
     rating: 4.2,
-    tags: ['delta-8', 'cartridge', 'vape']
+    tags: ['delta-8', 'cartridge', 'vape'],
   },
   {
     id: 4,
@@ -37,7 +37,7 @@ const offlineProducts = [
     img_url: '/products/delta-8-gummies.jpg',
     price: 24.99,
     rating: 4.8,
-    tags: ['delta-8', 'gummies', 'stress']
+    tags: ['delta-8', 'gummies', 'stress'],
   },
   {
     id: 5,
@@ -47,7 +47,7 @@ const offlineProducts = [
     img_url: '/products/ashwagandha-supplement.jpg',
     price: 19.99,
     rating: 4.6,
-    tags: ['supplements', 'anxiety', 'stress']
+    tags: ['supplements', 'anxiety', 'stress'],
   },
   {
     id: 6,
@@ -57,7 +57,7 @@ const offlineProducts = [
     img_url: '/products/amethyst-crystal.jpg',
     price: 15.99,
     rating: 4.9,
-    tags: ['spiritual', 'crystals', 'meditation']
+    tags: ['spiritual', 'crystals', 'meditation'],
   },
   {
     id: 7,
@@ -67,7 +67,7 @@ const offlineProducts = [
     img_url: '/products/rose-quartz-crystal.jpg',
     price: 12.99,
     rating: 5.0,
-    tags: ['crystals', 'love', 'healing']
+    tags: ['crystals', 'love', 'healing'],
   },
   {
     id: 8,
@@ -77,7 +77,7 @@ const offlineProducts = [
     img_url: '/products/clear-quartz-crystal.jpg',
     price: 10.99,
     rating: 4.4,
-    tags: ['crystals', 'manifestation', 'intention']
+    tags: ['crystals', 'manifestation', 'intention'],
   },
   {
     id: 9,
@@ -87,7 +87,7 @@ const offlineProducts = [
     img_url: '/products/turmeric-curcumin-supplement.jpg',
     price: 22.99,
     rating: 4.7,
-    tags: ['supplements', 'inflammation', 'joint']
+    tags: ['supplements', 'inflammation', 'joint'],
   },
   {
     id: 10,
@@ -97,7 +97,7 @@ const offlineProducts = [
     img_url: '/products/lions-mane-tincture.jpg',
     price: 32.99,
     rating: 4.8,
-    tags: ['mushroom', 'tinctures', 'brain']
+    tags: ['mushroom', 'tinctures', 'brain'],
   },
   {
     id: 11,
@@ -107,7 +107,7 @@ const offlineProducts = [
     img_url: '/products/cordyceps-capsules.jpg',
     price: 28.99,
     rating: 4.6,
-    tags: ['mushroom', 'capsules', 'energy']
+    tags: ['mushroom', 'capsules', 'energy'],
   },
   {
     id: 12,
@@ -117,7 +117,7 @@ const offlineProducts = [
     img_url: '/products/cbd-chocolate.jpg',
     price: 14.99,
     rating: 4.9,
-    tags: ['cbd', 'chocolate', 'stress']
+    tags: ['cbd', 'chocolate', 'stress'],
   },
   {
     id: 13,
@@ -127,7 +127,7 @@ const offlineProducts = [
     img_url: '/products/sleep-support-supplement.jpg',
     price: 19.99,
     rating: 4.7,
-    tags: ['supplements', 'sleep', 'stress']
+    tags: ['supplements', 'sleep', 'stress'],
   },
   {
     id: 14,
@@ -137,7 +137,7 @@ const offlineProducts = [
     img_url: '/products/delta-9-chocolate.jpg',
     price: 24.99,
     rating: 4.8,
-    tags: ['delta-9', 'chocolate', 'stress']
+    tags: ['delta-9', 'chocolate', 'stress'],
   },
   {
     id: 15,
@@ -147,7 +147,7 @@ const offlineProducts = [
     img_url: '/products/nootropic-energy-supplement.jpg',
     price: 21.99,
     rating: 4.5,
-    tags: ['supplements', 'energy', 'focus']
+    tags: ['supplements', 'energy', 'focus'],
   },
   {
     id: 16,
@@ -157,7 +157,7 @@ const offlineProducts = [
     img_url: '/products/immunity-booster-supplement.jpg',
     price: 23.99,
     rating: 4.6,
-    tags: ['supplements', 'immune', 'health']
+    tags: ['supplements', 'immune', 'health'],
   },
   {
     id: 17,
@@ -167,7 +167,7 @@ const offlineProducts = [
     img_url: '/products/aphrodisiac-herbal-blend.jpg',
     price: 18.99,
     rating: 4.4,
-    tags: ['herbal', 'love', 'libido']
+    tags: ['herbal', 'love', 'libido'],
   },
   {
     id: 18,
@@ -177,7 +177,7 @@ const offlineProducts = [
     img_url: '/products/mood-support-supplement.jpg',
     price: 25.99,
     rating: 4.7,
-    tags: ['supplements', 'mood', 'stress']
+    tags: ['supplements', 'mood', 'stress'],
   },
   {
     id: 19,
@@ -187,7 +187,7 @@ const offlineProducts = [
     img_url: '/products/anxiety-relief-supplement.jpg',
     price: 20.99,
     rating: 4.8,
-    tags: ['supplements', 'anxiety', 'stress']
+    tags: ['supplements', 'anxiety', 'stress'],
   },
   {
     id: 20,
@@ -197,8 +197,9 @@ const offlineProducts = [
     img_url: '/products/cbd-gummies.jpg',
     price: 29.99,
     rating: 4.9,
-    tags: ['cbd', 'gummies', 'stress']
-  }, {
+    tags: ['cbd', 'gummies', 'stress'],
+  },
+  {
     id: 21,
     name: 'Chakra Balancing Tea Blend',
     description:
@@ -206,7 +207,7 @@ const offlineProducts = [
     img_url: '/products/chakra-balancing-tea.jpg',
     price: 18.99,
     rating: 4.9,
-    tags: ['tea', 'chakra', 'balance']
+    tags: ['tea', 'chakra', 'balance'],
   },
   {
     id: 22,
@@ -216,7 +217,7 @@ const offlineProducts = [
     img_url: '/products/palo-santo-smudge-sticks.jpg',
     price: 14.99,
     rating: 4.8,
-    tags: ['smudge', 'palo santo', 'energy']
+    tags: ['smudge', 'palo santo', 'energy'],
   },
   {
     id: 23,
@@ -226,7 +227,7 @@ const offlineProducts = [
     img_url: '/products/kava-kava-root-powder.jpg',
     price: 24.99,
     rating: 4.7,
-    tags: ['kava', 'kava kava', 'stress']
+    tags: ['kava', 'kava kava', 'stress'],
   },
   {
     id: 24,
@@ -236,7 +237,7 @@ const offlineProducts = [
     img_url: '/products/third-eye-awakening-tincture.jpg',
     price: 28.99,
     rating: 4.6,
-    tags: ['herbal', 'tincture', 'third eye']
+    tags: ['herbal', 'tincture', 'third eye'],
   },
   {
     id: 25,
@@ -246,7 +247,7 @@ const offlineProducts = [
     img_url: '/products/astral-projection-incense.jpg',
     price: 19.99,
     rating: 4.5,
-    tags: ['incense', 'astral', 'projection']
+    tags: ['incense', 'astral', 'projection'],
   },
   {
     id: 26,
@@ -256,8 +257,106 @@ const offlineProducts = [
     img_url: '/products/astral-projection-incense.jpg',
     price: 10.99,
     rating: 4.5,
-    tags: ['beard', 'oil', 'beard oil']
+    tags: ['beard', 'oil', 'beard oil'],
   },
+  {
+    id: 27,
+    name: 'Mindful Energy Formula Capsules',
+    description:
+      'Elevate your energy and mental focus with our Mindful Energy Formula Capsules. Sustainably sourced from potent botanicals, these capsules support your physical and mental well-being while connecting you to your higher purpose.',
+    img_url: '/products/mindful-energy-formula-capsules.jpg',
+    price: 24.99,
+    rating: 4.7,
+    tags: ['energy', 'capsules', 'mindfulness'],
+  },
+  {
+    id: 28,
+    name: 'Serenity CBD Capsules',
+    description:
+      'Experience tranquility and inner peace with our Serenity CBD Capsules. Infused with premium CBD, these capsules support relaxation, stress relief, and emotional balance, helping you maintain a harmonious mind-body connection.',
+    img_url: '/products/serenity-cbd-capsules.jpg',
+    price: 34.99,
+    rating: 4.8,
+    tags: ['CBD', 'capsules', 'relaxation'],
+  },
+  {
+    id: 29,
+    name: 'Divine Functional Mushroom Capsules',
+    description:
+      'Unlock the wisdom of nature with our Divine Functional Mushroom Capsules. These capsules contain a blend of powerful mushrooms, enhancing your mental clarity, immune system, and overall wellness as you journey on your spiritual path.',
+    img_url: '/products/divine-functional-mushroom-capsules.jpg',
+    price: 29.99,
+    rating: 4.6,
+    tags: ['mushroom', 'capsules', 'wellness'],
+  },
+  {
+    id: 30,
+    name: 'Soulful Mushroom Gummies',
+    description:
+      'Delight in the natural benefits of our Soulful Mushroom Gummies. Infused with potent mushrooms, these delicious gummies promote well-being, inner balance, and holistic health, helping you thrive on your spiritual journey.',
+    img_url: '/products/soulful-mushroom-gummies.jpg',
+    price: 27.99,
+    rating: 4.9,
+    tags: ['mushroom', 'gummies', 'balance'],
+  },
+  {
+    id: 31,
+    name: 'Psycho Mushroom Chocolate Bars',
+    description:
+      'Indulge in the mystical experience of our Psycho Mushroom Chocolate Bars. Crafted with care, these bars connect you with the wisdom of nature, promoting deep introspection, self-discovery, and spiritual growth.',
+    img_url: '/products/psycho-mushroom-chocolate-bars.jpg',
+    price: 22.99,
+    rating: 4.8,
+    tags: ['mushroom', 'chocolate', 'spiritual'],
+  },
+  {
+    id: 32,
+    name: 'Elevated Delta 9 Cartridge',
+    description:
+      'Achieve higher consciousness with our Elevated Delta 9 Cartridge. This vape cartridge delivers a balanced and harmonious experience, allowing you to explore the depths of your inner world while staying grounded in the present.',
+    img_url: '/products/elevated-delta-9-cartridge.jpg',
+    price: 39.99,
+    rating: 4.3,
+    tags: ['delta-9', 'cartridge', 'consciousness'],
+  },
+  {
+    id: 33,
+    name: 'Enlightened Delta 9 Gummies',
+    description:
+      'Embark on a journey of self-awareness with our Enlightened Delta 9 Gummies. These gummies create a serene and mindful atmosphere, helping you deepen your connection with yourself and the universe around you.',
+    img_url: '/products/enlightened-delta-9-gummies.jpg',
+    price: 35.99,
+    rating: 4.6,
+    tags: ['delta-9', 'gummies', 'enlightenment'],
+  },
+  {
+    id: 34,
+    name: 'Harmony Delta 9 Tincture',
+    description:
+      'Find your center with our Harmony Delta 9 Tincture. This tincture promotes a calm, focused, and balanced state of mind, allowing you to tap into your inner wisdom and navigate lifes challenges with grace and ease.',
+    img_url: '/products/harmony-delta-9-tincture.jpg',
+    price: 44.99,
+    rating: 4.7,
+    tags: ['delta-9', 'tinctures', 'balance'],
+  },
+  {
+    id: 34,
+    name: 'Organic Beard Balm',
+    description:
+      'Nourish your beard and promote healthy growth with our Organic Beard Balm. Made from all-natural ingredients, this balm moisturizes and conditions your beard while supporting the spiritual journey of self-care.',
+    img_url: '/products/organic-beard-balm.jpg',
+    price: 19.99,
+    rating: 4.5,
+    tags: ['beard', 'balm', 'organic'],
+  },{
+    id: 35,
+    name: "Premium CBD Tincture",
+    description: "Experience the calming benefits of our Premium CBD Tincture. Crafted from high-quality, organic ingredients, this tincture offers quick absorption and relief for stress, anxiety, and discomfort. Elevate your well-being and support your body's natural balance with this powerful CBD formula.",
+    img_url: "/products/premium-cbd-tincture.jpg",
+    price: 39.99,
+    rating: 4.8,
+    tags: ["cbd", "tincture", "organic"]
+  }
 ];
 
 export default offlineProducts;
