@@ -12,6 +12,44 @@ BASE_URL = "https://www.bing.com/create?toWww=1&redig=30C04FC20A7A4BA08168CC7BB1
 SAVE_PATH = "C:/dev/personal/ecom/next_DBC/scripts/public"
 CHROME_DRIVER_PATH = "C:/path/to/chromedriver.exe"
 
+
+landscape = [    "Generate a list of 10 native plants that thrive in your local climate and provide a visual guide on how to incorporate them into a landscape design.",    "Create an article discussing the benefits of sustainable landscaping practices, including water conservation, energy efficiency, and reduced maintenance costs.",    "Develop a step-by-step guide to creating a DIY garden using recycled materials and inexpensive plantings.",    "Design a visually stunning landscape that incorporates natural elements such as rocks, trees, and water features.",    "Write a blog post about the importance of seasonal maintenance, including pruning, fertilization, and pest control.",    "Create a video tutorial on how to install a drip irrigation system to minimize water waste and reduce overall maintenance.",    "Develop a guide to the best mulching practices for your region, including how to choose the right type of mulch and how to apply it effectively.",    "Write a detailed article on how to create a low-maintenance lawn that requires minimal watering and mowing.",    "Create a social media campaign showcasing before-and-after photos of recent landscaping projects, highlighting the impact of professional design and installation.",    "Develop a series of infographics illustrating the benefits of incorporating different types of plants into a landscape design, including increased biodiversity, improved air quality, and reduced erosion."]
+Dynamic_Website_Art = [    "Create a dynamic background image for the website header with a space theme.",    "Generate a beautiful animated logo for the website using a dragonfly.",    "Produce a visually stunning 3D animation of a flock of birds flying across the screen.",    "Design a beautiful and creative loading screen for the website.",    "Generate a unique and eye-catching icon for the website's bookmark.",    "Create a beautiful and minimalist navigation menu with icons.",    "Produce an interactive image gallery with images of nature.",    "Design a beautiful and dynamic background video for the website.",    "Generate a visually striking background pattern with geometric shapes.",    "Produce a beautiful and unique illustration of the website's mascot.",    "Create a dynamic and interactive timeline of the website's history.",    "Generate a beautiful and animated countdown timer for the website's upcoming event.",    "Design a creative and dynamic footer with a scrolling effect.",    "Produce a visually stunning carousel of images with different effects.",    "Create a beautiful and interactive map of the website's location.",    "Generate a visually striking hero image with a parallax effect.",    "Design a beautiful and unique infographic with data visualization.",    "Produce a dynamic and interactive quiz with different question types.",    "Create a visually stunning 404 error page with a fun message.",    "Generate a beautiful and interactive contact form with animation effects."]
+simple_tattoo = [    "A tiny unicorn tattooed on the wrist, surrounded by stars.",    "A small fairy tattoo on the back of the neck with butterfly wings.",    "A heart-shaped tattoo with angel wings and a halo above it.",    "A tiny mermaid tattoo on the ankle with a seashell crown.",    "A magical potion bottle tattoo with sparkles and glitter.",    "A small dragonfly tattoo on the collarbone with iridescent wings.",    "A cute fox tattoo on the arm with a flower crown.",    "A tiny crescent moon tattoo on the finger with stars.",    "A small butterfly tattoo on the wrist with watercolor effect.",    "A unicorn horn tattoo on the forearm with a rainbow trail.",    "A magical wand tattoo on the hand with stars and sparkles.",    "A small bee tattoo on the ankle with honeycomb and flowers.",    "A tiny mushroom tattoo on the back of the ear with tiny fairies.",    "A cute panda tattoo on the shoulder with a bamboo shoot.",    "A small crescent moon and star tattoo on the ankle.",    "A small hummingbird tattoo on the wrist with watercolor effect.",    "A magical key tattoo on the back of the neck with glitter.",    "A cute owl tattoo on the shoulder with a moon in the background.",    "A small heart tattoo on the finger with an arrow through it.",    "A tiny lightning bolt tattoo on the wrist with a storm cloud."]
+
+MM = [
+    "Write a short story about a person who discovers the benefits of magic mushrooms and decides to start a business selling them.",
+    "Create a series of social media posts promoting the different types of magic mushrooms sold by the company.",
+    "Write an informative blog post about the history and cultural significance of magic mushrooms.",
+    "Design a logo for the magic mushroom company that incorporates the unique qualities of the mushrooms they sell.",
+    "Create a list of delicious recipes that feature magic mushrooms as a key ingredient.",
+    "Write an article about the scientific research behind the benefits of magic mushrooms for mental health.",
+    "Develop a marketing strategy to reach new customers who are interested in natural remedies and holistic health practices.",
+    "Create a video that showcases the beauty and diversity of the magic mushrooms grown and sold by the company.",
+    "Write a how-to guide for growing magic mushrooms at home, with tips and tricks for success.",
+    "Develop an educational program for schools and community groups that teaches the benefits and potential risks of magic mushrooms."
+]
+
+Freel = [
+  "Create an image of a couple standing on a hilltop with a beautiful sunset in the background, holding hands and smiling.",
+         "Generate a photo of a baby giggling while playing with a set of colorful toys.",
+         "Design a picture of a family gathered around a campfire at night, roasting marshmallows and telling stories.",
+         "Create an image of a bride and groom exchanging vows in a beautiful outdoor wedding ceremony.",
+         "Generate a photo of a group of friends laughing and having fun on a beach vacation.",
+         "Design a picture of a stunning landscape with a waterfall cascading down a rocky cliff.",
+         "Create an image of a musician performing on stage in front of a cheering crowd.",
+         "Generate a photo of a woman looking out at a beautiful city skyline at night.",
+         "Design a picture of a group of people enjoying a picnic in a park on a sunny day.",
+         "Create an image of a person hiking up a mountain trail, surrounded by beautiful scenery.",
+         "Generate a photo of a child blowing out birthday candles on a cake surrounded by family and friends.",
+         "Design a picture of a couple enjoying a romantic dinner in a candlelit restaurant.",
+         "Create an image of a person sitting on a bench, reading a book in a peaceful garden.",
+         "Generate a photo of a group of people gathered around a table, playing a board game.",
+    "Design a picture of a woman relaxing in a hammock, surrounded by trees and a beautiful"
+]
+
+
+
 magical_products = [
     "Enchanted Crystal Forest",
     "Mystical Aurora Skyscraper",
@@ -116,52 +154,7 @@ constructionImages = [
     "Detailed Blueprint and Model"
 ]
 
-yogaParallax = [
-    "Sunrise Yoga Flow",
-    "Tranquil Zen Garden",
-    "Harmonious Lotus Pond",
-    "Mountain Serenity Retreat",
-    "Tropical Beach Meditation",
-    "Elegant Bamboo Studio",
-    "Peaceful Forest Sanctuary",
-    "Candlelit Mindfulness Space",
-    "Graceful Yoga Silhouettes",
-    "Vibrant Chakra Alignment",
-    "Soothing Aerial Yoga",
-    "Majestic Waterfall Sanctuary",
-    "Starry Night Yoga Session",
-    "Sacred Geometry Studio",
-    "Mind-Body Balance Bridge",
-    "Spiritual Desert Oasis",
-    "Blossoming Yoga Garden",
-    "Floating Yoga Pavilion",
-    "Yoga among the Clouds",
-    "Energy Flow Labyrinth"
-]
 
-
-cult = [
-"Divine Nature Temple ",
-"Cosmic Energy Center ",
-"Sacred Fire Ceremony",
-"Mystic Moonlit Forest",
-"Enchanted Crystal Cave",
-"Celestial Sky Meditation",
-"Elemental Earth Ritual",
-"Angelic Chanting Circle",
-"Serene Waterfall Sanctuary",
-"Ancient Wisdom Library",
-"Awakening Sunrise Celebration",
-"Celestial Alignment Ceremony",
-"Sacred Sound Healing Circle",
-"Elemental Magic Garden",
-"Lunar Eclipse Gathering",
-"Pristine Mountain Peak Meditation",
-"Oceanic Dream Retreat",
-"Mystic Pyramid Sanctuary",
-"Golden Sunset Yoga Session",
-"Shamanic Medicine Wheel Ceremony"
-]
 
 personal = [
 "Healthy breakfast spread",
@@ -223,14 +216,13 @@ tattoo = [
   "Generate a simple tattoo to incorporate waves",
   "Generate a simple tattoo of a wizard shooting his wand at a green light "
 
-  ]
+]
 
 
 
 products= [
 
-  cult,
-  yogaParallax,
+
   constructionImages,
   professionalImages,
   essentials,
@@ -270,7 +262,7 @@ def main():
                 EC.presence_of_element_located((By.XPATH, '//*[@id="sb_form_q"]'))
             )
             search_box.clear()
-            search_box.send_keys(f"can you make a stunning product image for {product}")
+            search_box.send_keys(f"Can you make stunning webcontent featuring the following: {product}")
             search_box.submit()
 
             product_folder_name = product_set[0].split(" ")[0]  # Use the first word of the first product in the product_set as folder name
