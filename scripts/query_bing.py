@@ -15,8 +15,11 @@ CHROME_DRIVER_PATH = "C:/path/to/chromedriver.exe"
 
 landscape = [    "Generate a list of 10 native plants that thrive in your local climate and provide a visual guide on how to incorporate them into a landscape design.",    "Create an article discussing the benefits of sustainable landscaping practices, including water conservation, energy efficiency, and reduced maintenance costs.",    "Develop a step-by-step guide to creating a DIY garden using recycled materials and inexpensive plantings.",    "Design a visually stunning landscape that incorporates natural elements such as rocks, trees, and water features.",    "Write a blog post about the importance of seasonal maintenance, including pruning, fertilization, and pest control.",    "Create a video tutorial on how to install a drip irrigation system to minimize water waste and reduce overall maintenance.",    "Develop a guide to the best mulching practices for your region, including how to choose the right type of mulch and how to apply it effectively.",    "Write a detailed article on how to create a low-maintenance lawn that requires minimal watering and mowing.",    "Create a social media campaign showcasing before-and-after photos of recent landscaping projects, highlighting the impact of professional design and installation.",    "Develop a series of infographics illustrating the benefits of incorporating different types of plants into a landscape design, including increased biodiversity, improved air quality, and reduced erosion."]
 Dynamic_Website_Art = [    "Create a dynamic background image for the website header with a space theme.",    "Generate a beautiful animated logo for the website using a dragonfly.",    "Produce a visually stunning 3D animation of a flock of birds flying across the screen.",    "Design a beautiful and creative loading screen for the website.",    "Generate a unique and eye-catching icon for the website's bookmark.",    "Create a beautiful and minimalist navigation menu with icons.",    "Produce an interactive image gallery with images of nature.",    "Design a beautiful and dynamic background video for the website.",    "Generate a visually striking background pattern with geometric shapes.",    "Produce a beautiful and unique illustration of the website's mascot.",    "Create a dynamic and interactive timeline of the website's history.",    "Generate a beautiful and animated countdown timer for the website's upcoming event.",    "Design a creative and dynamic footer with a scrolling effect.",    "Produce a visually stunning carousel of images with different effects.",    "Create a beautiful and interactive map of the website's location.",    "Generate a visually striking hero image with a parallax effect.",    "Design a beautiful and unique infographic with data visualization.",    "Produce a dynamic and interactive quiz with different question types.",    "Create a visually stunning 404 error page with a fun message.",    "Generate a beautiful and interactive contact form with animation effects."]
-simple_tattoo = [    "A tiny unicorn tattooed on the wrist, surrounded by stars.",    "A small fairy tattoo on the back of the neck with butterfly wings.",    "A heart-shaped tattoo with angel wings and a halo above it.",    "A tiny mermaid tattoo on the ankle with a seashell crown.",    "A magical potion bottle tattoo with sparkles and glitter.",    "A small dragonfly tattoo on the collarbone with iridescent wings.",    "A cute fox tattoo on the arm with a flower crown.",    "A tiny crescent moon tattoo on the finger with stars.",    "A small butterfly tattoo on the wrist with watercolor effect.",    "A unicorn horn tattoo on the forearm with a rainbow trail.",    "A magical wand tattoo on the hand with stars and sparkles.",    "A small bee tattoo on the ankle with honeycomb and flowers.",    "A tiny mushroom tattoo on the back of the ear with tiny fairies.",    "A cute panda tattoo on the shoulder with a bamboo shoot.",    "A small crescent moon and star tattoo on the ankle.",    "A small hummingbird tattoo on the wrist with watercolor effect.",    "A magical key tattoo on the back of the neck with glitter.",    "A cute owl tattoo on the shoulder with a moon in the background.",    "A small heart tattoo on the finger with an arrow through it.",    "A tiny lightning bolt tattoo on the wrist with a storm cloud."]
-
+Artsy = [    "Produce an abstract portrait with geometric shapes and patterns.",    "Generate a surreal landscape with floating islands and waterfalls.",    "Design a minimalist still life with everyday objects like a coffee mug and a book.",    "Create an impressionist-style painting with vibrant colors and brush strokes.",    "Produce a cubist-style portrait with multiple viewpoints.",    "Generate a beautiful and detailed illustration of a mythical creature.",    "Design a beautiful and creative wallpaper pattern with floral elements.",    "Create a beautiful and intricate mandala with geometric shapes and patterns.",    "Produce a surrealistic illustration of a dreamlike scene with flying objects.",    "Generate a beautiful and detailed illustration of a fantasy cityscape.",    "Design a minimalist and abstract illustration of a landscape with simple shapes.",    "Create a beautiful and intricate illustration of a fantasy creature like a dragon or a unicorn.",    "Produce a beautiful and unique portrait of a person with mixed media elements.",    "Generate a detailed and intricate illustration of an undersea world with marine life.",    "Design a beautiful and creative illustration of a galaxy with stars and planets.",    "Create a beautiful and intricate illustration of a nature scene like a forest or a waterfall.",    "Produce a surrealistic illustration of a person with a distorted perspective.",    "Generate a beautiful and detailed illustration of a gothic architecture with intricate details.",    "Design a minimalist and abstract illustration of a person with simple shapes.",    "Create a beautiful and intricate illustration of a mystical landscape with mountains and clouds."]
+HealthCare = [    "Create a high-quality 3D illustration of a human heart for the website's home page.",    "Generate a visually stunning image of a medical team working together to save a patient's life.",    "Produce a beautiful and informative infographic about the benefits of healthy eating.",    "Design a creative and informative image of different types of medicine and their uses.",    "Generate a high-quality image of a medical device with its features and functionalities.",    "Create a visually appealing image of a human brain with different parts highlighted.",    "Produce a beautiful and informative image of the circulatory system.",    "Generate a high-quality image of a medical emergency response team in action.",    "Design a creative and informative image of a healthy spine and its importance.",    "Create a visually stunning image of a healthy lifestyle and its impact on mental health.",    "Produce an informative image of different types of vaccines and their importance.",    "Generate a high-quality image of a medical lab with its equipment and testing procedures.",    "Design a creative and informative image of a human digestive system.",    "Create a visually appealing image of a medical consultation with a patient.",    "Produce a beautiful and informative image of the nervous system.",    "Generate a high-quality image of a medical team conducting a surgical procedure.",    "Design a creative and informative image of the respiratory system.",    "Create a visually stunning image of a medical rehabilitation program.",    "Produce an informative image of the different stages of pregnancy.",    "Generate a high-quality image of a medical team conducting a health screening."]
+Government = [    "Produce a visually striking hero image for the homepage of the website with an American flag theme.",    "Create an animated infographic depicting the process of awarding government contracts.",    "Generate a visually appealing and interactive timeline of government contracts awarded in the past.",    "Design a beautiful and creative logo for the website.",    "Produce an interactive map displaying the locations of government contractors across the United States.",    "Create an image of a government contract being signed by a representative of the government and a contractor.",    "Generate a visually striking image of government employees evaluating proposals for contracts.",    "Design a series of icons depicting the different types of government contracts available.",    "Produce a set of images showcasing government contractors at work on various projects.",    "Create a visually appealing and easy-to-understand infographic outlining the benefits of working with the government.",    "Generate an image of a government contractor delivering a product or service to a government agency.",    "Design a beautiful and interactive dashboard for tracking government contracts.",    "Produce a visually striking image of a government building with the website's logo superimposed.",    "Create an image of government contractors working together on a project.",    "Generate an image of a government official presenting a contract award to a contractor.",    "Design a set of icons depicting the different stages of the contract award process.",    "Produce an image of a government contractor using technology to deliver a product or service.",    "Create a visually appealing and interactive infographic outlining the process of bidding on government contracts.",    "Generate a visually striking image of a government contractor working on a project with a government employee.",    "Design a beautiful and creative icon set depicting the different government agencies that award contracts."]
+ThreeDBreadGetter = [    "Create a 3D visualization of a government contracting process with various stakeholders.",    "Generate a professional and visually appealing dashboard for tracking contract performance.",    "Produce a 3D visualization of a government building with interactive elements.",    "Design a professional and modern user interface for the government contracting software.",    "Create a 3D visualization of a government contract negotiation process with various parties involved.",    "Generate a professional and visually stunning infographic about government contracting procedures.",    "Produce a 3D visualization of a government contracting team collaborating on a project.",    "Design a professional and modern user profile page for government contracting personnel.",    "Create a 3D visualization of a government contract bidding process with various contractors involved.",    "Generate a professional and visually striking timeline of a government contracting project.",    "Produce a 3D visualization of a government contract delivery process with various stakeholders involved.",    "Design a professional and modern contract summary page for government contracting projects.",    "Create a 3D visualization of a government contract compliance process with various regulations.",    "Generate a professional and visually appealing report on government contracting performance.",    "Produce a 3D visualization of a government contract audit process with various auditors involved.",    "Design a professional and modern contract modification page for government contracting projects.",    "Create a 3D visualization of a government contract dispute resolution process with various parties involved.",    "Generate a professional and visually stunning organizational chart of government contracting teams.",    "Produce a 3D visualization of a government contract termination process with various parties involved.",    "Design a professional and modern contract award page for government contracting projects."]
+BreadGetter = [    "Create an innovative and futuristic dashboard for tracking government contracts.",    "Generate a visually stunning graph for analyzing government spending trends.",    "Produce a visually striking logo for the software that conveys innovation and reliability.",    "Design a beautiful and intuitive user interface for the software.",    "Create an animated video showcasing the benefits of the software.",    "Generate a visually stunning map showing government contract spending by state.",    "Design a professional and modern website for the software.",    "Produce a unique and eye-catching infographic about government contract regulations.",    "Create a visually appealing and informative brochure for the software.",    "Generate a 3D rendering of the software's features and capabilities.",    "Design a beautiful and dynamic splash page for the software.",    "Produce a visually stunning timeline of government contract reform.",    "Create an interactive dashboard for tracking and analyzing procurement data.",    "Generate a visually appealing chart showing government contract spending by industry.",    "Design a professional and modern proposal template for government contracts.",    "Produce a visually striking diagram of the software's architecture.",    "Create an animated explainer video for the software's features and benefits.",    "Generate a visually stunning pie chart showing government contract spending by agency.",    "Design a beautiful and dynamic landing page for the software.",    "Produce a unique and informative white paper on government contracting reform."]
 MM = [
     "Write a short story about a person who discovers the benefits of magic mushrooms and decides to start a business selling them.",
     "Create a series of social media posts promoting the different types of magic mushrooms sold by the company.",
@@ -73,86 +76,6 @@ magical_products = [
     "Enchanted Tech Tree"
 ]
 
-essentials = [
-    "Responsive Web Design",
-    "User Interface Elements",
-    "Coding and Programming Languages",
-    "Search Engine Optimization",
-    "Web Security and Privacy",
-    "Website Analytics Dashboard",
-    "Mobile App Development",
-    "Social Media Integration",
-    "E-commerce Shopping Cart",
-    "Content Management System",
-    "Website Hosting and Domain",
-    "Web Development Team",
-    "Multimedia Integration",
-    "User Experience Design",
-    "Accessibility and Inclusivity",
-    "Email Marketing Campaign",
-    "Website Wireframe",
-    "Online Collaboration Tools",
-    "Customer Support Services",
-    "Website Page Speed Optimization",
-    "Browser Compatibility Testing",
-    "Website Update and Maintenance",
-    "Online Advertising and Promotion",
-    "Landing Page Optimization",
-    "Conversion Rate Optimization",
-    "Website Typography and Fonts",
-    "Web Development Project Planning",
-    "Web Design Color Theory",
-    "Web Development Best Practices",
-    "Online Portfolio and Resume"
-]
-
-
-professionalImages = [
-    "Sleek Modern Office Space",
-    "Elegant Business Meeting",
-    "Cutting-Edge Technology Showcase",
-    "Dynamic Team Collaboration",
-    "Innovative Product Presentation",
-    "Efficient Workspace Organization",
-    "Powerful Corporate Branding",
-    "Diverse Professional Networking",
-    "Strategic Planning Session",
-    "Influential Leadership Conference",
-    "Expert Technical Support",
-    "Global Supply Chain Management",
-    "High-Performance Data Center",
-    "Sophisticated Financial Analysis",
-    "State-of-the-Art Medical Facility",
-    "Inspiring Architectural Design",
-    "Advanced Manufacturing Process",
-    "Clean Renewable Energy Solutions",
-    "Futuristic Urban Transportation",
-    "Progressive Sustainable Development"
-]
-
-
-constructionImages = [
-    "Panoramic Cityscape Construction",
-    "Modern Skyscraper Framework",
-    "Innovative Green Building Design",
-    "Dynamic Bridge Engineering",
-    "Majestic Tower Crane in Action",
-    "Sunset Over Construction Site",
-    "Busy Urban Infrastructure Development",
-    "Aerial View of Expansive Project",
-    "Eco-friendly Residential Complex",
-    "Futuristic Commercial Architecture",
-    "Historic Renovation and Preservation",
-    "Industrial Construction Equipment",
-    "Efficient Modular Construction",
-    "Stunning Interior Fit-Out Progress",
-    "Safe and Organized Worksite",
-    "Powerful Earthmoving Machinery",
-    "Concrete Jungle Transformation",
-    "Harmonious Public Space Development",
-    "Skyline Changing High-rise",
-    "Detailed Blueprint and Model"
-]
 
 
 
@@ -214,7 +137,7 @@ tattoo = [
 
   "Generate a simple tattoo sketch with the themes of magic and mushrooms",
   "Generate a simple tattoo to incorporate waves",
-  "Generate a simple tattoo of a wizard shooting his wand at a green light "
+  "Generate a simple tattoo of a wizard shooting his wand at a green light ""A tiny unicorn tattooed on the wrist, surrounded by stars.",    "A small fairy tattoo on the back of the neck with butterfly wings.",    "A heart-shaped tattoo with angel wings and a halo above it.",    "A tiny mermaid tattoo on the ankle with a seashell crown.",    "A magical potion bottle tattoo with sparkles and glitter.",    "A small dragonfly tattoo on the collarbone with iridescent wings.",    "A cute fox tattoo on the arm with a flower crown.",    "A tiny crescent moon tattoo on the finger with stars.",    "A small butterfly tattoo on the wrist with watercolor effect.",    "A unicorn horn tattoo on the forearm with a rainbow trail.",    "A magical wand tattoo on the hand with stars and sparkles.",    "A small bee tattoo on the ankle with honeycomb and flowers.",    "A tiny mushroom tattoo on the back of the ear with tiny fairies.",    "A cute panda tattoo on the shoulder with a bamboo shoot.",    "A small crescent moon and star tattoo on the ankle.",    "A small hummingbird tattoo on the wrist with watercolor effect.",    "A magical key tattoo on the back of the neck with glitter.",    "A cute owl tattoo on the shoulder with a moon in the background.",    "A small heart tattoo on the finger with an arrow through it.",    "A tiny lightning bolt tattoo on the wrist with a storm cloud."
 
 ]
 
@@ -222,15 +145,20 @@ tattoo = [
 
 products= [
 
-
-  constructionImages,
-  professionalImages,
-  essentials,
+  tattoo,
+  Freel,
+  Dynamic_Website_Art,
+  ThreeDBreadGetter,
+  BreadGetter,
+  Government,
+  HealthCare,
+  landscape,
+  MM,
+  Artsy,
+  psych,
   magical_products,
   personal,
   athleticPrompts,
-  tattoo
-
 ]
 
 image_xpaths = [
