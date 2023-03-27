@@ -10,12 +10,8 @@
           "Reishi Mushroom Tincture",
           "Lions Mane Mushroom Tincture"
         ],
-        "gummies": [
-          "Soulful Mushroom Gummies"
-        ],
-        "chocolates": [
-          "Psycho Mushroom Chocolate Bars"
-        ]
+        "gummies": ["Soulful Mushroom Gummies"],
+        "chocolates": ["Psycho Mushroom Chocolate Bars"]
       },
       "delta-8": {
         "tinctures": ["Delta 8 Tincture"],
@@ -94,6 +90,26 @@
     "Enlightened Delta 9 Gummies",
     "Harmony Delta 9 Tincture",
     "Organic Beard Balm",
-    "Premium CBD Tincture"
+    "Premium CBD Tincture",
+    "Mood-Boosting Adaptogenic Tea Blend",
+    "Hemp-Infused Facial Oil",
+    "CBD Bath Bomb",
+    "Organic Elderberry Syrup",
+    "Vegan Probiotic Supplement",
+    "Healing Himalayan Salt Lamp",
+    "Organic Ginkgo Biloba Supplement",
+    "CBD Sleep Aid Capsules",
+    "Organic Ashwagandha Powder",
+    "Brain-Boosting Nootropic Capsules",
+    "Organic Moringa Leaf Powder",
+    "Aromatherapy Essential Oil Diffuser",
+    "Immune-Supporting Zinc Supplement",
+    "Organic Chlorella Powder",
+    "Natural Hair Growth Supplement",
+    "Reusable Beeswax Food Wraps",
+    "Organic Matcha Green Tea Powder",
+    "Himalayan Pink Salt Body Scrub",
+    "Organic Aloe Vera Gel",
+    "Handcrafted Crystal Necklace"
   ]
 }
