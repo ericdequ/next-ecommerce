@@ -1,4 +1,4 @@
-exports.seed = function (knex) {
+export function seed (knex) {
   // Deletes ALL existing entries
   return knex('product_category')
     .del()
@@ -19,4 +19,4 @@ exports.seed = function (knex) {
         { product_id: 12, category_id: 6 },
       ]);
     });
-};
+}

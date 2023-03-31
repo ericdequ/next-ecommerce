@@ -1,4 +1,4 @@
-exports.seed = function (knex) {
+export function seed (knex) {
   // Deletes ALL existing entries
   return knex('product')
     .del()
@@ -151,4 +151,4 @@ exports.seed = function (knex) {
         },
       ]);
     });
-};
+}
